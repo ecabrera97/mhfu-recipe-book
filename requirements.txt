@@ -1,0 +1,6 @@
+pyside6
+numpy
+pytesseract
+opencv-python
+python-Levenshtein
+mss
